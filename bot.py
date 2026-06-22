@@ -11,7 +11,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
 API_TOKEN = '8954721701:AAE4-O4DlVLWMtk4Cs4VumpFrSpto2VZbI0'
-CHANNEL_ID = -1003926649038
+CHANNEL_ID = -1003933523058
 PUNYO_TG_USERNAME = "@Punyo_Education"
 PUNYO_TG_URL = "https://t.me/Punyo_Education"
 PUNYO_INSTA_URL = "https://www.instagram.com/punyo_education?igsh=aG5uYmJuemR1OWk3&utm_source=qr"
